@@ -1,5 +1,5 @@
 # asyncio-example
-Here show how to send concurrency requests via python3.5 built in asyncio.
+Here show how to send concurrency requests via python3.5 built in asyncio. If it helps, do not hesitate, give me a star 🌟.
 
 # Usage
 Require Python3.5+. Tested on Python3.7.
