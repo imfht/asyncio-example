@@ -1,5 +1,5 @@
 # asyncio-example
-Here show how to send concurrency requests via python3.5 built in asyncio.
+Here show how to send concurrency requests via python3.5 built in asyncio. If it helps, do not hesitate, give me a star 🌟.
 
 ## Update 
 Add Async Poll. Can be found at AsyncPoll.py . The old version create looots of coroutines and cost looots of memorys without Async poll. 
